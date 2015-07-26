@@ -1,6 +1,6 @@
-# Day Opendata
+# Open data
 
-Opendata of 2015 year day length, sunrise, sunset in Lithuania.
+Europe, Lithuania. Year 2015. Open data.
 
 ## Data formats
 
